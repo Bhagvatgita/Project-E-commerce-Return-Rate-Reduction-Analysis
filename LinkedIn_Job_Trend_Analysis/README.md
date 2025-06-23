@@ -1,6 +1,4 @@
 LinkedIn_Job_Trend_Analysis/README.md
-LinkedIn Job Trend Analysis
-
 
  **Project Objective**:
 
