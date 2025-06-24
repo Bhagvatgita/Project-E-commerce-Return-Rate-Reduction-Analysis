@@ -11,7 +11,7 @@ This project focuses on identifying key reasons behind product returns in an e-c
 - Predict which products are likely to be returned using a logistic regression model.
 - Provide data-driven recommendations to reduce return rates.
 
-## qqTools & Technologies
+## Tools & Technologies
 
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)
 - **Power BI**
